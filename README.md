@@ -1,3 +1,5 @@
+Daniel Borisov, Jonas Lehnert, and Bianca Granato
+
 We included severfal .py files which incorporated the training and testing of the different models.
 
 #################################################################################
